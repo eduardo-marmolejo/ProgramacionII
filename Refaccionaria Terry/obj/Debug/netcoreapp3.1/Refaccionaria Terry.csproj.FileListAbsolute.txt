@@ -1,0 +1,17 @@
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\netcoreapp3.1\Refaccionaria Terry.exe
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\netcoreapp3.1\Refaccionaria Terry.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\netcoreapp3.1\Refaccionaria Terry.runtimeconfig.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\netcoreapp3.1\Refaccionaria Terry.runtimeconfig.dev.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\netcoreapp3.1\Refaccionaria Terry.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\netcoreapp3.1\Refaccionaria Terry.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.csprojAssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.csproj.GenerateResource.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria Terry.genruntimeconfig.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria_Terry.Properties.Resources.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria_Terry.frmLogin.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\netcoreapp3.1\Refaccionaria_Terry.frmInicio.resources

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dominio/1.0.0": {
+        "dependencies": {
+          "AccesoDatos": "1.0.0"
+        },
+        "runtime": {
+          "Dominio.dll": {}
+        }
+      },
+      "AccesoDatos/1.0.0": {
+        "runtime": {
+          "AccesoDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

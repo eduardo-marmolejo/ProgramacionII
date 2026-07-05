@@ -1,0 +1,33 @@
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Refaccionaria Terry.exe
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Refaccionaria Terry.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Refaccionaria Terry.runtimeconfig.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Refaccionaria Terry.runtimeconfig.dev.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Refaccionaria Terry.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ref\Refaccionaria Terry.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Refaccionaria Terry.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.csprojAssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmLogin.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmInicio.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.Properties.Resources.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.csproj.GenerateResource.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\ref\Refaccionaria Terry.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.genruntimeconfig.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmProductos.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.xml
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria Terry.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmIniPrincipal.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmVentas.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmClientes.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmCompras.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmEmpleados.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmPagos.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporVentas.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporCompras.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 1\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporPagos.resources

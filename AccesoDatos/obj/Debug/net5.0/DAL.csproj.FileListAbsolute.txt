@@ -1,0 +1,36 @@
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.deps.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\ref\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\ref\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\ref\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\ref\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\ref\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\ref\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache

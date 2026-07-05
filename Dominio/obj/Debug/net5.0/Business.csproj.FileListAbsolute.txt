@@ -1,0 +1,45 @@
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.deps.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\ref\Business.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\ref\Business.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\ref\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\ref\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 3\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\ref\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Business.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\ref\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Business.pdb

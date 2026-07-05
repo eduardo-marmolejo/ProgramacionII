@@ -1,0 +1,12 @@
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\AccesoDatos.deps.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\AccesoDatos.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\ref\AccesoDatos.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\bin\Debug\net5.0\AccesoDatos.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.csprojAssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\ref\AccesoDatos.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\AccesoDatos\obj\Debug\net5.0\AccesoDatos.pdb

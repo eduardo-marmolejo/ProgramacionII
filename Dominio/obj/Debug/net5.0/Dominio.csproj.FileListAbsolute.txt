@@ -1,0 +1,15 @@
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\AccesoDatos.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\bin\Debug\net5.0\AccesoDatos.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Dominio\obj\Debug\net5.0\Dominio.pdb

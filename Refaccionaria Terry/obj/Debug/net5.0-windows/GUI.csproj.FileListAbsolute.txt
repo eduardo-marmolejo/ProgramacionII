@@ -1,0 +1,221 @@
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.exe
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.deps.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\FontAwesome.Sharp.Pro.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.xml
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csprojAssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmClientes.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmCompras.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmEmpleados.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmLogin.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmInicio.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmProductos.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporCompras.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporPagos.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporVentas.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmVentas.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmIniPrincipal.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.Properties.Resources.resources
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.pdb
+D:\TAREAS\PROGRAMCIÓN\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportViewerExportLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalActiveXReportViewerLib13.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportViewerWebReportSourceLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalAnalysisCommLayerLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalAnalysisRequestModelLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalClientDocLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.EMFGENLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.VLELib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.SAXSERIALIZELib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsReportDefModelLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CRReportPromptEMFLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.PROMPTINGLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalPrintControlLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.PAGEOBJECTMODELLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsObjectFactoryLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsDTSAgentLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsCubeDefModelLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsDataDefModelLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsControllersLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CRDESIGNERLib.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Interop.CRQUERYENGINE.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.ResolveComReference.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmClientes.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmCompras.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmCR_Ventas.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmEmpleados.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmIniPrincipal.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmLogin.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmInicio.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmProductos.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporCompras.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporPagos.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmReporVentas.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.frmVentas.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\Refaccionaria_Terry.Properties.Resources.resources
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.exe
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.deps.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\GUI.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\FontAwesome.Sharp.Pro.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.ReportViewer.Design.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.SqlServer.Types.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Business.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReportesVentas.exe
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\DAL.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.CrystalReports.Engine.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.Shared.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportSource.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.Windows.Forms.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\AxShockwaveFlashObjects.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\ShockwaveFlashObjects.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\stdole.dll
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReportesVentas.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Business.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\DAL.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.xml
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReportesVentas.exe.config
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReporesPagos.exe
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReportesCompras.exe
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReporesPagos.pdb
+D:\TAREAS\PROGRAMCIÓN\TEMA 4\PROYECTO\ProyectoRefaccionaria\Refaccionaria Terry\bin\Debug\net5.0-windows\CR_ReportesCompras.pdb
