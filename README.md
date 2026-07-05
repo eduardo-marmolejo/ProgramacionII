@@ -32,7 +32,7 @@ Proyecto desarrollado como parte de la materia de Programación II, implementado
    ```bash
    git clone https://github.com/eduardo-marmolejo/ProgramacionII.git
    ```
-2. Restaurar la base de datos en SQL Server usando el script `REFACCIONARIA-TBD - EDUARDO MARMOLEJO ORNELAS - 191140006.sql`.
+2. Restaurar la base de datos en SQL Server usando el script `REFACCIONARIA-TBD.sql`.
 3. Abrir el proyecto en Visual Studio.
 4. Configurar la cadena de conexión a la base de datos.
 5. Ejecutar la aplicación.
